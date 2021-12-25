@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662437713734",
+    "firebase_url": "https://employeesalaryapplication-default-rtdb.firebaseio.com",
+    "project_id": "employeesalaryapplication",
+    "storage_bucket": "employeesalaryapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662437713734:android:18fc68b30f4eb463923747",
+        "android_client_info": {
+          "package_name": "com.example.employeesalaryapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662437713734-2vep5dt2km5a0oqvukfn15vnnj6g6lju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFHLNiDfB9oJAqu-K49241BZSo6NEASU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662437713734-2vep5dt2km5a0oqvukfn15vnnj6g6lju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
